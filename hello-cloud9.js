@@ -7,7 +7,7 @@ console.log("i is " + i);
 
 do {
     input = readline.question("Enter a number (or 'q' to quit): ");
-    if (input === 'q') {
+    if (input == 'q') {
         console.log('OK, exiting.')
     }
     else{
@@ -16,4 +16,4 @@ do {
     }
 } while (input != 'q');
 
-console.log("Goodbye!");
+console.log("Goodbye!")
