@@ -1,0 +1,54 @@
+body{
+	background-color: #E6F3FA;
+	font-family: helvetica;
+}
+
+h1{
+	text-align: center;
+	color: #737368;
+}
+
+h2{
+	color: #737368;
+}
+
+table, th, td{
+	border: 2px solid #FAACE5;
+}
+
+a{
+	color: #737368;
+	border: 1px solid #FAACE5;
+	background-color: #EDF7F7;
+}
+
+a:visited{
+	background-color: pink;
+}
+
+a:active{
+	background-color: red;
+}
+
+a:link{
+	background-color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	background-color: green;
+	text-decoration: underline;
+}
+
+
+.smIcon{
+	width: 40px;
+}
+
+.backgroundColor{
+	background-color: #4CADF9;
+}
+
+form{
+	background-color: #D2FBCF;
+}
